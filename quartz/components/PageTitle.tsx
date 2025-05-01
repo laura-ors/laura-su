@@ -14,11 +14,52 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
 }
 
 PageTitle.css = `
-.page-title {
-  font-size: 1.75rem;
-  margin: 0;
-  font-family: var(--titleFont);
+.epistemic-note {
+    font-size: 0.8em;
+    color: var(--gray);
+    padding-top: 0.5rem;
+    border-top: 1px dashed var(--lightgray);
 }
+    @font-face {
+    font-family: 'KJV1611';
+    src: url('/fonts/KJV1611.otf'); 
+}
+
+@font-face {
+    font-family: 'Gogol';
+    src: url('/fonts/gogol_regular.otf');
+}
+
+@font-face {
+    font-family: 'EBGaramond';
+    src: url('/fonts/EBGaramond.ttf');
+}
+
+@font-face {
+    font-family: 'Truetypewriter PolyglOTT';
+    src: url('/fonts/Truetypewriter PolyglOTT.ttf');
+}
+
+@font-face {
+    font-family: 'LaBelleAurore';
+    src: url('/fonts/LaBelleAurore-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'UnifrakturCook';
+    src: url('/fonts/UnifrakturCook-Bold.ttf');
+}
+
+.page-title {
+  font-size: 5.35rem;
+  
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+  font-family: 'KJV1611' !important;
+}
+  
 `
 
 export default (() => PageTitle) satisfies QuartzComponentConstructor
