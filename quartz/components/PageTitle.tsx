@@ -51,7 +51,7 @@ PageTitle.css = `
 }
 
 .page-title {
-  font-size: 5.35rem;
+  font-size: 4.35rem;
   
     padding-left: 0.5rem;
     padding-right: 0.5rem;
