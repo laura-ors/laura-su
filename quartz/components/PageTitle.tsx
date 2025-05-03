@@ -22,7 +22,7 @@ PageTitle.css = `
 }
 
 @font-face {
-    font-family: 'TT2020StyleE-Regular';
+    font-family: 'TT2020 Style E';
     src: url('/static/fonts/TT2020StyleE-Regular.woff2') format('woff2'),
          url('/static/fonts/TT2020StyleE-Regular.woff') format('woff'),
          url('/static/fonts/TT2020StyleE-Regular.ttf') format('truetype');
@@ -32,7 +32,7 @@ PageTitle.css = `
     font-weight: 400;
 }
 @font-face {
-    font-family: 'TT2020StyleE-Regular';
+    font-family: 'TT2020 Style E';
     src: url('/static/fonts/TT2020StyleE-Regular.woff2') format('woff2'),
          url('/static/fonts/TT2020StyleE-Regular.woff') format('woff'),
          url('/static/fonts/TT2020StyleE-Regular.ttf') format('truetype');
