@@ -23,6 +23,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
+        title: "KJV1611",
+
         header: "EB Garamond",
         body: "EB Garamond",
         code: "Courier Prime",
