@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "laura.su",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", "Drafts",".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "local",
