@@ -1,8 +1,6 @@
 ---
 title: Essays
 draft: false
-tags:
-  - nook
-  - book
+tags: []
 updated: 2023-10-20
 ---
