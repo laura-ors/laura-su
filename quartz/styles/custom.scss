@@ -17,7 +17,7 @@ section {
   margin: 0;
   box-sizing: border-box;
   background-color: var(--light);
-  font-family: 'Truetypewriter PolyglOTT';
+  font-family: 'TT2020StyleE-Regular';
   font-size: 15pt;
   color: var(--darkgray);
 }
@@ -27,7 +27,7 @@ section {
   margin: 0;
   box-sizing: border-box;
   background-color: var(--light);
-  font-family: var(--bodyFont);
+  font-family: 'Coelacanth';
   color: var(--darkgray);
   font-size: 15pt;
 
@@ -441,7 +441,7 @@ svg.external-icon {
 
 
 [saved-theme="dark"] .folder-container div>a {
-  font-family: 'Truetypewriter PolyglOTT' !important;
+  font-family: 'TT2020StyleE-Regular' !important;
 }
 
 [saved-theme="dark"] a {
@@ -807,7 +807,7 @@ table {
 [saved-theme="dark"] h5,
 [saved-theme="dark"] h6,
 [saved-theme="dark"] thead {
-  font-family: 'Truetypewriter PolyglOTT';
+  font-family: 'TT2020StyleE-Regular';
   color: var(--dark);
   font-weight: revert;
   margin-bottom: 0;
@@ -818,18 +818,28 @@ table {
   }
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+[saved-theme="light"] h1,
+[saved-theme="light"] h2,
+[saved-theme="light"] h3,
+[saved-theme="light"] h4,
+[saved-theme="light"] h5,
+[saved-theme="light"] h6,
+[saved-theme="light"] thead {
+font-family: 'Coelacanth';
+}
+
+[saved-theme="light"] h1,
+[saved-theme="light"] h2,
+[saved-theme="light"] h3,
+[saved-theme="light"] h4,
+[saved-theme="light"] h5,
+[saved-theme="light"] h6 {
   &[id] > a[href^="#"] {
     margin: 0 0.5rem;
     opacity: 0;
     transition: opacity 0.2s ease;
     transform: translateY(-0.1rem);
-    font-family: var(--codeFont);
+    font-family: 'Coelacanth';
     user-select: none;
   }
 
@@ -842,6 +852,30 @@ h6 {
   }
 }
 
+
+[saved-theme="dark"] h1,
+[saved-theme="dark"] h2,
+[saved-theme="dark"] h3,
+[saved-theme="dark"] h4,
+[saved-theme="dark"] h5,
+[saved-theme="dark"] h6 {
+  &[id] > a[href^="#"] {
+    margin: 0 0.5rem;
+    opacity: 0;
+    transition: opacity 0.2s ease;
+    transform: translateY(-0.1rem);
+    font-family: 'TT2020StyleE-Regular';
+    user-select: none;
+  }
+
+  &[id]:hover > a {
+    opacity: 1;
+  }
+
+  &:not([id]) > a[role="anchor"] {
+    display: none;
+  }
+}
 
 [saved-theme="dark"] h1.article-title {
     text-align: center;
@@ -876,7 +910,7 @@ h6 {
 }
 
 [saved-theme="light"] button {
-  font-family: 'EB Garamond';
+  font-family: 'Coelacanth';
 }
 
 [saved-theme="light"] button.toc-header h3 {
@@ -1085,7 +1119,7 @@ figure[data-rehype-pretty-code-figure] {
   position: relative;
 
   & > [data-rehype-pretty-code-title] {
-    font-family: var(--codeFont);
+    font-family: 'Coelacanth';
     font-size: 0.9rem;
     padding: 0.1rem 0.5rem;
     border: 1px solid var(--lightgray);

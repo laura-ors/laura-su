@@ -22,14 +22,15 @@ PageTitle.css = `
 }
 
 @font-face {
-    font-family: 'Truetypewriter PolyglOTT';
-    src: url('/static/fonts/TruetypewriterPolyglOTT.woff2') format('woff2'),
-         url('/static/fonts/TruetypewriterPolyglOTT.woff') format('woff'),
-         url('/static/fonts/TruetypewriterPolyglOTT.ttf') format('truetype');
+    font-family: 'TT2020StyleE-Regular';
+    src: url('/static/fonts/TT2020StyleE-Regular.woff2') format('woff2'),
+         url('/static/fonts/TT2020StyleE-Regular.woff') format('woff'),
+         url('/static/fonts/TT2020StyleE-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
+
 @font-face {
     font-family: 'KJV1611';
     src: url('/static/fonts/KJV1611.woff2') format('woff2'),
@@ -46,10 +47,14 @@ PageTitle.css = `
 }
 
 @font-face {
-    font-family: 'EBGaramond';
-    src: url('/fonts/EBGaramond.ttf');
+    font-family: 'Coelacanth';
+    src: url('/static/fonts/Coelacanth.woff2') format('woff2'),
+         url('/static/fonts/Coelacanth.woff') format('woff'),
+         url('/static/fonts/Coelacanth.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
-
 
 @font-face {
     font-family: 'LaBelleAurore';
