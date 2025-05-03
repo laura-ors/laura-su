@@ -23,10 +23,30 @@ const config: QuartzConfig = {
       fontOrigin: "local",
       cdnCaching: true,
       typography: {
-        title: "KJV1611",
-        header: "EB Garamond",
-        body: "EB Garamond",
-        code: "Courier Prime",
+        title: {
+          name: "KJV1611",       // Must match @font-face name
+          fallback: "serif",
+          fontOrigin: "local",    // Load from /static/fonts/
+          fontDisplay: "swap",    // Optional but recommended
+        },
+        header: {
+          name: "EB Garamond",       // Must match @font-face name
+          fallback: "serif",
+          fontOrigin: "local",    // Load from /static/fonts/
+          fontDisplay: "swap",    // Optional but recommended
+        },
+        body: {
+          name: "EB Garamond",       // Must match @font-face name
+          fallback: "serif",
+          fontOrigin: "local",    // Load from /static/fonts/
+          fontDisplay: "swap",    // Optional but recommended
+        },
+        code: {
+          name: "Courier Prime",       // Must match @font-face name
+          fallback: "serif",
+          fontOrigin: "local",    // Load from /static/fonts/
+          fontDisplay: "swap",    // Optional but recommended
+        },
       },
       colors: {
         lightMode: {
