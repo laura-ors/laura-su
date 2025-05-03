@@ -38,6 +38,7 @@ PageTitle.css = `
 @font-face {
     font-family: 'Truetypewriter PolyglOTT';
     src: url('/fonts/Truetypewriter PolyglOTT.ttf');
+    font-weight:600;
 }
 
 @font-face {
