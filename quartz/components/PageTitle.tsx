@@ -23,18 +23,18 @@ PageTitle.css = `
 
 @font-face {
     font-family: 'Truetypewriter PolyglOTT';
-    src: url('/fonts/TruetypewriterPolyglOTT.woff2') format('woff2'),
-         url('/fonts/TruetypewriterPolyglOTT.woff') format('woff'),
-         url('/fonts/TruetypewriterPolyglOTT.ttf') format('truetype');
+    src: url('/static/fonts/TruetypewriterPolyglOTT.woff2') format('woff2'),
+         url('/static/fonts/TruetypewriterPolyglOTT.woff') format('woff'),
+         url('/static/fonts/TruetypewriterPolyglOTT.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'KJV1611';
-    src: url('/fonts/KJV1611.woff2') format('woff2'),
-         url('/fonts/KJV1611.woff') format('woff'),
-         url('/fonts/KJV1611.ttf') format('truetype');
+    src: url('/static/fonts/KJV1611.woff2') format('woff2'),
+         url('/static/fonts/KJV1611.woff') format('woff'),
+         url('/static/fonts/KJV1611.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
