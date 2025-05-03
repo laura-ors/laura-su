@@ -23,6 +23,14 @@ PageTitle.css = `
     @font-face {
     font-family: 'KJV1611';
     src: url('/fonts/KJV1611.otf'); 
+        src: url('KJV1611.eot');
+    src: url('KJV1611.eot?#iefix') format('embedded-opentype'),
+        url('KJV1611.woff2') format('woff2'),
+        url('KJV1611.woff') format('woff'),
+        url('KJV1611.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -35,10 +43,16 @@ PageTitle.css = `
     src: url('/fonts/EBGaramond.ttf');
 }
 
-@font-face {
+@font-face { 
     font-family: 'Truetypewriter PolyglOTT';
-    src: url('/fonts/Truetypewriter PolyglOTT.ttf');
-    font-weight:600;
+        src: url('TruetypewriterPolyglOTT.eot');
+    src: url('TruetypewriterPolyglOTT.eot?#iefix') format('embedded-opentype'),
+        url('TruetypewriterPolyglOTT.woff2') format('woff2'),
+        url('TruetypewriterPolyglOTT.woff') format('woff'),
+        url('TruetypewriterPolyglOTT.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
