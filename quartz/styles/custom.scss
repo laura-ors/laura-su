@@ -17,7 +17,7 @@ section {
   margin: 0;
   box-sizing: border-box;
   background-color: var(--light);
-  font-family: 'TT2020StyleE-Regular';
+  font-family: 'TT2020 Style E';
   font-size: 15pt;
   color: var(--darkgray);
 }
@@ -441,7 +441,7 @@ svg.external-icon {
 
 
 [saved-theme="dark"] .folder-container div>a {
-  font-family: 'TT2020StyleE-Regular' !important;
+  font-family: 'TT2020 Style E' !important;
 }
 
 [saved-theme="dark"] a {
@@ -807,7 +807,7 @@ table {
 [saved-theme="dark"] h5,
 [saved-theme="dark"] h6,
 [saved-theme="dark"] thead {
-  font-family: 'TT2020StyleE-Regular';
+  font-family: 'TT2020 Style E';
   color: var(--dark);
   font-weight: revert;
   margin-bottom: 0;
@@ -864,7 +864,7 @@ font-family: 'Coelacanth';
     opacity: 0;
     transition: opacity 0.2s ease;
     transform: translateY(-0.1rem);
-    font-family: 'TT2020StyleE-Regular';
+    font-family: 'TT2020 Style E';
     user-select: none;
   }
 
