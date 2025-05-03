@@ -20,11 +20,10 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
-      fontOrigin: "googleFonts",
+      fontOrigin: "local",
       cdnCaching: true,
       typography: {
         title: "KJV1611",
-
         header: "EB Garamond",
         body: "EB Garamond",
         code: "Courier Prime",
