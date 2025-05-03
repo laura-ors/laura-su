@@ -29,6 +29,28 @@ PageTitle.css = `
     font-weight: normal;
     font-style: normal;
     font-display: swap;
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'TT2020StyleE-Regular';
+    src: url('/static/fonts/TT2020StyleE-Regular.woff2') format('woff2'),
+         url('/static/fonts/TT2020StyleE-Regular.woff') format('woff'),
+         url('/static/fonts/TT2020StyleE-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'KJV1611';
+    src: url('/static/fonts/KJV1611.woff2') format('woff2'),
+         url('/static/fonts/KJV1611.woff') format('woff'),
+         url('/static/fonts/KJV1611.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    
+    font-weight: 700;
 }
 
 @font-face {
@@ -39,11 +61,20 @@ PageTitle.css = `
     font-weight: normal;
     font-style: normal;
     font-display: swap;
+    
+    font-weight: 400;
 }
 
+
 @font-face {
-    font-family: 'Gogol';
-    src: url('/fonts/gogol_regular.otf');
+    font-family: 'Coelacanth';
+    src: url('/static/fonts/Coelacanth.woff2') format('woff2'),
+         url('/static/fonts/Coelacanth.woff') format('woff'),
+         url('/static/fonts/Coelacanth.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400;
 }
 
 @font-face {
@@ -54,6 +85,7 @@ PageTitle.css = `
     font-weight: normal;
     font-style: normal;
     font-display: swap;
+    font-weight: 700;
 }
 
 @font-face {
