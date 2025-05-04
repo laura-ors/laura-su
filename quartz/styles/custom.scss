@@ -34,11 +34,7 @@ section {
 }
 
 [saved-theme="light"] .text-highlight {
-//   background-color: var(--textHighlight);
-//   padding: 0 0.1rem;
-  
   padding: 0.125em 0.25em;
-//   border-radius: 5px;
     border-radius: 1em;
     background-image: linear-gradient(
       -100deg,
@@ -131,7 +127,6 @@ strong {
   font-weight: $semiBoldWeight;
 }
 
-
 [saved-theme="light"] .section h3, .section>.tags {
   background: none !important;
 }
@@ -154,19 +149,6 @@ strong {
         padding: 1px 10px;
         border-radius: 1em;
         border: solid var(--lightgray) 1px;
-        // background: none !important;
-        // background-image: none;
-        // white-space: nowrap;
-        // overflow: hidden;
-    // }
-        // border-radius: 10px;
-        // background-image: linear-gradient(
-        //   -100deg,
-        //   #6a73b098,
-        //   var(--textHighlight) 95%,
-        //   #6a73b07e,
-    
-        // );
 
     &:has(> img) {
       background-color: transparent;
@@ -213,10 +195,7 @@ strong {
     
     margin-top: 10px !important;
     margin-bottom: 10px !important;
-    // margin-left: auto;
-    // margin-right: auto;
     text-align: center; /* Center inline elements */
-    // display: flex;
 }
 
 :root {
@@ -249,8 +228,6 @@ strong {
 }
 
 /* Alternating colors for each heading level */
-
-
 [saved-theme="light"] a.external{
 padding: 1px 10px;
 border-radius: 1em;
@@ -260,13 +237,8 @@ border: solid rgb(106, 115, 176) 1px;
 
 [saved-theme="dark"] a.external{ 
   display: inline-block;
-  // // border-radius: 0.125em;
-  // box-decoration-break: clone;
   padding: 0.125em 0.25em;
 
-    // background-color: rgba(0, 128, 0, 0.5);
-    //  border-radius: 0;
-    // box-shadow: inset 0 0 6px rgb(10, 41, 37), 0 0 10px rgb(10, 87, 10), 0 0 5px rgb(8, 85, 8);
     border: 1px solid #6a73b0; /* Bright neon color (cyan) */
     box-shadow: 
       0 0 0px #6a73b0, /* Inner glow */
@@ -275,7 +247,6 @@ border: solid rgb(106, 115, 176) 1px;
     
     /* Optional: Text glow */
     text-shadow: 0 0 6px #6a73b0;
-      // text-align: center;
       text-shadow: 0 0 5px rgba(105, 95, 160, 0.541),0 0 10px rgba(112, 95, 160, 0.534),0 0 20px rgba(101, 95, 160, 0.562),0 0 40px rgba(112, 95, 160, 0.534),0 0 45px rgba(109, 95, 160, 0.568);
     /* Sharp corners (remove if you prefer rounded) */
     border-radius: 0;
@@ -287,7 +258,6 @@ svg.external-icon {
 
 [saved-theme="light"] h1 { 
   border-radius: 5px; 
-  // padding-left: 10px;
   text-align: center;
 
   margin-block-start: 0;
@@ -313,7 +283,6 @@ svg.external-icon {
 
 [saved-theme="light"] h3 { 
   border-radius: 5px; 
-  // padding-left: 10px;
   text-align: center;
 
 }
@@ -340,7 +309,6 @@ svg.external-icon {
 
 [saved-theme="light"] h2:not(.page-title) { 
   border-radius: 5px; 
-  // padding-left: 10px;
   text-align: center;
 
   margin-top: 1.9rem;
@@ -366,7 +334,6 @@ svg.external-icon {
 
 [saved-theme="light"] h4 { 
   border-radius: 5px; 
-  // padding-left: 10px;
   text-align: center;
 
 }
@@ -391,7 +358,6 @@ svg.external-icon {
 
 [saved-theme="light"] h5 { 
   border-radius: 5px; 
-  // padding-left: 10px;
   text-align: center;
 
 }
@@ -416,7 +382,6 @@ svg.external-icon {
 
 [saved-theme="light"] h6 { 
   border-radius: 5px; 
-  // padding-left: 10px;
   text-align: center;
 
 }
@@ -455,51 +420,9 @@ svg.external-icon {
     }
   
     &.internal {
-        // background: 
-        // linear-gradient(
-        //     90deg,
-        //     rgba(64, 255, 207, 0) 0.9%,
-        //     rgb(64, 255, 230) 2.4%,
-        //     rgba(64, 255, 239, 0.5) 5.8%,
-        //     rgba(64, 255, 166, 0.1) 93%,
-        //     rgba(64, 255, 255, 0.7) 96%,
-        //     rgba(64, 255, 223, 0) 98%
-        //   ),
-        // linear-gradient(
-        //     95deg,
-        //     rgba(64, 255, 207, 0) 0.9%,
-        //     rgb(64, 255, 230) 2.4%,
-        //     rgba(64, 255, 239, 0.5) 5.8%,
-        //     rgba(64, 255, 166, 0.1) 93%,
-        //     rgba(64, 255, 255, 0.7) 96%,
-        //     rgba(64, 255, 223, 0) 98%
-        //   )          ,
-        //   linear-gradient(
-        //     180deg,
-        //     rgba(64, 255, 239, 0) 0%,
-        //     rgba(64, 255, 255, 0.3) 7.9%,
-        //     rgba(64, 255, 239, 0) 15%
-        //   );
 
-        //   transition: background-color 0.4s;
-        //   // background-color: rgba(var(--color--bg-rainbow-folder), 0.3);
-        //   margin-bottom: 2px;
-        //   // border-radius: 5px;
-        //   // border-image-slice: 1;
-        //   border-top: 1px solid;
-        //   // border-image-source: linear-gradient(to right, transparent, #04465add, transparent);
-        //   border-bottom: 1px solid;
-        //     // background-color: rgba(95, 158, 160, 0.5);
-        //     box-shadow: inset 0 0 6px cadetblue, 0 0 10px cadetblue, 0 0 5px cadetblue;
         display: inline-block;
-        // // border-radius: 0.125em;
-        // box-decoration-break: clone;
         padding: 0.125em 0.25em;
-
-          // background-color: rgba(0, 128, 0, 0.5);
-          //  border-radius: 0;
-          // box-shadow: inset 0 0 6px rgb(10, 41, 37), 0 0 10px rgb(10, 87, 10), 0 0 5px rgb(8, 85, 8);
-          border: 1px solid cadetblue; /* Bright neon color (cyan) */
           box-shadow: 
             0 0 0px cadetblue, /* Inner glow */
             0 0 10px rgba(95, 158, 160, 0.521), /* Outer glow */
@@ -507,7 +430,6 @@ svg.external-icon {
           
           /* Optional: Text glow */
           text-shadow: 0 0 6px cadetblue;
-            // text-align: center;
             text-shadow: 0 0 5px rgba(95, 158, 160, 0.541),0 0 10px rgba(95, 158, 160, 0.534),0 0 20px rgba(95, 158, 160, 0.562),0 0 40px rgba(95, 158, 160, 0.534),0 0 45px rgba(95, 158, 160, 0.568);
       
           /* Sharp corners (remove if you prefer rounded) */
@@ -720,7 +642,6 @@ input[type="checkbox"] {
   transform: translateY(2px);
   color: var(--secondary);
   border: 1px solid var(--lightgray);
-//   border-radius: 3px;
   background-color: var(--light);
   position: relative;
   margin-inline-end: 0.2rem;
@@ -763,16 +684,6 @@ table {
 }
 
 
-// h1,
-// h2,
-// h3,
-// h4,
-// h5,
-// h6 {
-//     font-family: 'LaBelleAurore' !important;
-// }
-
-
 /* Blurred fixed background */
 [saved-theme="dark"]  body::before {
     content: '';
@@ -781,14 +692,10 @@ table {
     left: 0;
     width: 100%;
     height: 100%;
-    // background-repeat: no-repeat;
-    // background-size: cover;
     filter: blur(8px) brightness(30%) saturate(100%) opacity(100%);
     z-index: -1; /* Place behind content */
     background: 
-    //   linear-gradient(rgba(255,255,255,0.1), /* Optional tint */
       url('https://images.unsplash.com/photo-1506475097213-5555f7fc9b66?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') 0% 75%/cover; /* Image settings */
-    // filter: blur(8px); /* Adjust blur strength */
     -webkit-backdrop-filter: blur(8px); /* For Safari */
   }
   
@@ -967,11 +874,6 @@ font-size: 15pt;
 
 /* Mobile view adjustments */
 @media (max-width: 768px) {
-  // .left.sidebar {
-  //   display: flex;
-  //   flex-direction: row !important; /* Stack title above buttons */
-  //   gap: 8px; /* Space between title and buttons */
-  // }
   .left-sidebar {
     display: flex;
     flex-direction: row; /* Align children horizontally */
@@ -987,25 +889,8 @@ font-size: 15pt;
     font-size: 8vw !important;
     margin: 0 !important;
 
-
-    // width: 1vw; /* Take full width */
   }
-    // .left-sidebar {
-    //   display: flex;
-    //   flex-direction: row;
-    //   align-items: center;
-    //   overflow-x: auto;
-    // }
-  
-  // .left.sidebar > div[style*="display: flex"] {
-  //   flex-wrap: wrap; /* Allow buttons to wrap if needed */
-  //   justify-content: flex-end; /* Align buttons to right */
-  //   width: 100%;
-  // }
 
-  // .mobile-only.spacer {
-  //   display: none; /* Remove spacer in mobile */
-  // }
 }
 [saved-theme="dark"] h2:not(.page-title) {
     // text-align: center;
@@ -1083,7 +968,6 @@ h2 {
   font-size: 1.9rem;
   margin-bottom: 1rem;
   
-  // font-family: 'LaBelleAurore' !important;
 }
 
 h3 {
@@ -1091,7 +975,6 @@ h3 {
   margin-top: 1.62rem;
   margin-bottom: 1rem;
   
-  // font-family: 'LaBelleAurore' !important;
 }
 
 h4 {

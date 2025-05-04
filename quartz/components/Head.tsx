@@ -85,6 +85,45 @@ export default (() => {
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
+        {cfg.theme.fontOrigin === "local" && (
+          <>
+
+            <link
+              rel="preload"
+              href="/static/fonts/KJV1611.woff2"
+              as="font"
+              type="font/woff2"
+              crossOrigin="anonymous"
+            />
+
+          </>
+        )}
+        {cfg.theme.fontOrigin === "local" && (
+          <>
+
+            <link
+              rel="preload"
+              href="/static/fonts/TT2020StyleE-Regular.woff2"
+              as="font"
+              type="font/woff2"
+              crossOrigin="anonymous"
+            />
+
+          </>
+        )}
+        {cfg.theme.fontOrigin === "local" && (
+          <>
+
+            <link
+              rel="preload"
+              href="/static/fonts/Coelacanth.woff2"
+              as="font"
+              type="font/woff2"
+              crossOrigin="anonymous"
+            />
+
+          </>
+        )}
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js
