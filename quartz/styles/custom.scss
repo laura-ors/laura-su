@@ -872,6 +872,13 @@ font-size: 15pt;
   border: 0px solid cadetblue; /* Bright neon color (cyan) */
 }
 
+
+[saved-theme="light"] button.mobile-explorer, [saved-theme="light"] button.desktop-explorer>h2 {
+  // padding: 0.125em 0.25em;
+  font-size: 15pt;
+  // border: 0px solid cadetblue; /* Bright neon color (cyan) */
+}
+
 /* Mobile view adjustments */
 @media (max-width: 768px) {
   .left-sidebar {
