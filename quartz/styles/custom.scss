@@ -229,7 +229,7 @@ strong {
 
 /* Alternating colors for each heading level */
 [saved-theme="light"] a.external{
-padding: 1px 10px;
+padding: 0px 10px;
 border-radius: 1em;
 border: solid rgb(106, 115, 176) 1px;
 }
@@ -431,7 +431,8 @@ svg.external-icon {
           /* Optional: Text glow */
           text-shadow: 0 0 6px cadetblue;
             text-shadow: 0 0 5px rgba(95, 158, 160, 0.541),0 0 10px rgba(95, 158, 160, 0.534),0 0 20px rgba(95, 158, 160, 0.562),0 0 40px rgba(95, 158, 160, 0.534),0 0 45px rgba(95, 158, 160, 0.568);
-      
+            border: 1px solid cadetblue; /* Bright neon color (cyan) */
+
           /* Sharp corners (remove if you prefer rounded) */
           border-radius: 0;
   
@@ -822,6 +823,7 @@ font-family: 'Coelacanth';
 
 [saved-theme="light"] button.toc-header h3 {
   background-color: rgba(0,0,0,00) !important;
+  font-size: 1.25rem !important;
 }
 [saved-theme="light"] button.mobile-explorer h2, [saved-theme="light"] button.desktop-explorer h2 {
   background-color: rgba(0,0,0,00) !important;
@@ -844,30 +846,43 @@ font-family: 'Coelacanth';
 [saved-theme="dark"] .graph>h3 {
 background: none !important;
 // color: red;
-font-size: 15pt;
+font-size: 1.25rem;
 }
 [saved-theme="dark"] button.toc-header h3 {
   background-color: rgba(0,0,0,00) !important;
   background: none !important;
-  font-size: 15pt;
+  font-size: 1.25rem;
 
 }
 
 [saved-theme="dark"] .backlinks>h3 {
   background-color: rgba(0,0,0,00) !important;
   background: none !important;
-  font-size: 15pt;
+  font-size: 1.25rem;
 
 }
 
 [saved-theme="dark"] button.toc-header {
-  // border: 0px red,
   font-size: 15pt;
 
 }
 
+[saved-theme="light"] button.toc-header h3 {
+  font-size: 1.25rem;
+
+}
+
+[saved-theme="light"] .backlinks>h3 {
+  font-size: 1.25rem;
+
+}
+
+[saved-theme="light"] button.toc-header {
+  font-size: 1.25rem;
+
+}
+
 [saved-theme="dark"] button.mobile-explorer, [saved-theme="dark"] button.desktop-explorer>h2 {
-  // padding: 0.125em 0.25em;
   font-size: 15pt;
   border: 0px solid cadetblue; /* Bright neon color (cyan) */
 }
