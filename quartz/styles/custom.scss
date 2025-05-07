@@ -231,6 +231,7 @@ strong {
 [saved-theme="light"] a.external{
 padding: 0px 10px;
 border-radius: 1em;
+
 border: solid rgb(106, 115, 176) 1px;
 }
 
@@ -251,6 +252,21 @@ border: solid rgb(106, 115, 176) 1px;
     /* Sharp corners (remove if you prefer rounded) */
     border-radius: 0;
 }
+.desktop-explorer {
+    overflow: visible !important;
+  }
+  
+  .explorer-toggle {
+    pointer-events: auto !important;
+  }
+.desktop-explorer {
+    z-index: 100;
+  }
+  
+  .explorer-toggle {
+    z-index: 101; /* Higher than the explorer */
+    position: relative; /* Needed for z-index to work */
+  }
 
 svg.external-icon {
   display: none;

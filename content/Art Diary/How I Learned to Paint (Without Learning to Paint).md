@@ -5,7 +5,7 @@ tags:
   - art
 updated: 2025-01-31
 ---
-Since childhood, I was told I couldn’t draw. Not "struggled with," not "needed practice"—_couldn’t_.
+Since childhood, I was told I couldn’t draw. Not "struggled with," not "needed practice" — _couldn’t_.
 
 Straight-A student, top of the class, yet my art grades were a parade of D’s. My horses looked like cockroaches mid-meltdown. My "beach scene" was two mud puddles fighting a turf war. Teachers scolded me—not for laziness, but for the sheer _audacity_ of failing so spectacularly while excelling everywhere else.
 

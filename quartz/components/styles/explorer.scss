@@ -29,7 +29,7 @@
 .explorer {
   display: flex;
   flex-direction: column;
-  overflow-y: hidden;
+  // overflow-y: hidden;
 
   min-height: 1.2rem;
   flex: 0 1 auto;
@@ -161,7 +161,6 @@ button.desktop-explorer {
   & div > a {
     color: var(--secondary);
     font-family: 'Coelacanth';
-
     font-size: 1.2rem;
     font-weight: 400;
     line-height: 1.5rem;
