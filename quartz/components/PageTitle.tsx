@@ -26,7 +26,6 @@ PageTitle.css = `
     src: url('/static/fonts/TT2020StyleE-Regular.woff2') format('woff2'),
          url('/static/fonts/TT2020StyleE-Regular.woff') format('woff'),
          url('/static/fonts/TT2020StyleE-Regular.ttf') format('truetype');
-    font-weight: normal;
     font-style: normal;
     font-display: swap;
     font-weight: 400;
@@ -36,7 +35,6 @@ PageTitle.css = `
     src: url('/static/fonts/TT2020StyleE-Regular.woff2') format('woff2'),
          url('/static/fonts/TT2020StyleE-Regular.woff') format('woff'),
          url('/static/fonts/TT2020StyleE-Regular.ttf') format('truetype');
-    font-weight: normal;
     font-style: normal;
     font-display: swap;
     font-weight: 700;
@@ -46,10 +44,8 @@ PageTitle.css = `
     src: url('/static/fonts/KJV1611.woff2') format('woff2'),
          url('/static/fonts/KJV1611.woff') format('woff'),
          url('/static/fonts/KJV1611.ttf') format('truetype');
-    font-weight: normal;
     font-style: normal;
     font-display: swap;
-    
     font-weight: 700;
 }
 
@@ -58,10 +54,8 @@ PageTitle.css = `
     src: url('/static/fonts/KJV1611.woff2') format('woff2'),
          url('/static/fonts/KJV1611.woff') format('woff'),
          url('/static/fonts/KJV1611.ttf') format('truetype');
-    font-weight: normal;
     font-style: normal;
     font-display: swap;
-    
     font-weight: 400;
 }
 
@@ -71,7 +65,6 @@ PageTitle.css = `
     src: url('/static/fonts/Coelacanth.woff2') format('woff2'),
          url('/static/fonts/Coelacanth.woff') format('woff'),
          url('/static/fonts/Coelacanth.ttf') format('truetype');
-    font-weight: normal;
     font-style: normal;
     font-display: swap;
     font-weight: 400;
@@ -82,7 +75,6 @@ PageTitle.css = `
     src: url('/static/fonts/Coelacanth.woff2') format('woff2'),
          url('/static/fonts/Coelacanth.woff') format('woff'),
          url('/static/fonts/Coelacanth.ttf') format('truetype');
-    font-weight: normal;
     font-style: normal;
     font-display: swap;
     font-weight: 700;
@@ -100,7 +92,6 @@ PageTitle.css = `
 
 .page-title {
   font-size: 4.35rem;
-  
     padding-left: 0.5rem;
     padding-right: 0.5rem;
     margin-left: 0.5rem;
