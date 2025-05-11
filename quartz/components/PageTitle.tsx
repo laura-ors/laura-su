@@ -80,16 +80,6 @@ PageTitle.css = `
     font-weight: 700;
 }
 
-@font-face {
-    font-family: 'LaBelleAurore';
-    src: url('/fonts/LaBelleAurore-Regular.ttf');
-}
-
-@font-face {
-    font-family: 'UnifrakturCook';
-    src: url('/fonts/UnifrakturCook-Bold.ttf');
-}
-
 .page-title {
   font-size: 4.35rem;
     padding-left: 0.5rem;
