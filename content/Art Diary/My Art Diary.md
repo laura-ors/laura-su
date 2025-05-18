@@ -3,10 +3,13 @@ title: My Art Diary
 draft: false
 tags:
   - art
-updated: 2025-05-04 21:49
+updated: ""
 ---
 ## 2025
 ##### May
+| ![[My Art Diary-2.png]] |
+| --------------------------------- |
+| 2025/05/18                        |
 
 | ![[My Art Diary-1 1.png]] |
 | --------------------------------- |
