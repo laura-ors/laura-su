@@ -14,7 +14,7 @@ This is an _art project in the shape of a mind_.
     This is neither—it’s a **squatter’s shack built on digital bedrock**, where I nail new thoughts to the walls each dawn.
 - **Because creation is rebellion**.
     I write [[Essays|essays]] that pretend to understand the world and [[Poetry|poetry]] that admits it never will. 
-    I keep an [[How I Learned to Paint (Without Learning to Paint)|art diary]] where horses still look like cockroaches, and that’s the point.
+    I write [[All letters|letters that I don't send]], and I keep an [[How I Learned to Paint (Without Learning to Paint)|art diary]] where horses still look like cockroaches, and that’s the point.
 - **Because I owe my ghosts**.
     [[Acknowledgements|Some thank-yous]] are overdue.
 ### **WHAT THIS COSTS YOU**

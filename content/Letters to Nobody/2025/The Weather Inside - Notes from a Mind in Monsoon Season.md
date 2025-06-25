@@ -1,0 +1,26 @@
+---
+title: The Weather Inside - Notes from a Mind in Monsoon Season
+draft: false
+tags: 
+updated: 2025-06-24 20:35
+---
+ 
+My dearest readers,
+
+There is a peculiar tempest that brews not on any meteorological map, but within the very architecture of my being. It’s not quite hurricane, not quite drought, but a violent, contradictory confluence of both. The doctors call it a ‘mixed state’. I, in my less dignified moments (usually around 3 AM), have called it… well, let’s just say words unfit for this blog, though arguably possessing a certain poetic rawness.
+
+This is the bipolar tango I know best: not the clean arcs of soaring mania or the muffled depths of depression, but the chaotic, grinding waltz where both partners insist on leading simultaneously. Imagine your nerves strung tight as piano wire, vibrating with frantic, anxious energy, while your spirit feels like a sodden sack of stones sinking into cold mud. You are exhausted beyond measure, yet your thoughts race like startled starlings, battering against the cage of your skull. Sleep? A distant rumour. Peace? A foreign language. It’s wanting to paint the ceiling _right now_ while simultaneously being unable to lift a finger to brush away the tears. It’s glorious mess and profound agony sharing the same cramped studio apartment in my head.
+
+And then there are the potions. Ah, the ever-shifting pharmacopeia! The quest for the right alchemy feels less like science and more like playing chemical roulette with my own neurology. We’ve tried the soldiers of stability: Lithium, the stoic veteran; Lamotrigine, the meticulous craftsman; a whole battalion of antipsychotics with names that sound like distant galaxies. Some made me sleepwalk through my own life, a ghost haunting my routines. Others cranked the internal static to deafening levels. One delightful concoction gifted me with the handwriting of a spider dipped in ink, navigating an earthquake. We adjust, we tweak, we cross our fingers, hoping this vial, this capsule, might finally be the key to smoother seas. The side effects often read like a medieval plague pamphlet crossed with a bad trip. Finding the right balance isn't just chemistry; it’s high-stakes, deeply personal wizardry, and sometimes the spell backfires spectacularly.
+
+Which brings me to the other persistent storm system: stigma. It’s the subtle shift in a friend’s eyes when you cancel plans _again_, the unspoken “Oh, _that’s_ why…” when you dare mention the diagnosis. It’s the well-meaning but utterly reductive advice: “Just try yoga!” (As if downward dog could untangle the snarled wires of dopamine and serotonin). Or the classic: “Everyone feels up and down sometimes!” Yes, darling, but does everyone’s ‘down’ involve contemplating the existential void while their ‘up’ compels them to reorganize the entire taxonomy of their bookshelf by moon phase? I think not. We poets are supposed to be moody, of course – it’s practically in the job description alongside impractical scarves and a fondness for absinthe. Plath, Sexton – they set the bar high (and tragically). But being pathologized, reduced to a label, whispered about as ‘unstable’… that is a different kind of ache. It makes the already Herculean task of managing one's internal weather feel like doing it while wearing a sign that says "Caution: Unpredictable."
+
+So, how does one navigate this? With a dignity that feels sometimes borrowed, sometimes hard-won. With honesty, even when it’s messy. With the fierce, protective love of a few who see the storm _and_ the sailor trying to steer through it. And yes, with humor. Gallows humor, sometimes. The kind that makes my therapist raise an eyebrow (a frequent occurrence). Because if you don’t laugh at the absurdity of arguing with your own brain chemistry about whether buying that antique typewriter at 2 AM is genius or disaster… you might just cry. And I’ve done quite enough of that, thank you.
+
+I am not my diagnosis. I am a woman who feels the world intensely, sometimes too intensely. A poet who finds metaphors in the maelstrom. A human navigating a complex neurobiology with the tools available. It’s a lifelong negotiation, a dance with a partner who keeps changing the steps. Some days I lead, some days I’m dragged. But I’m still here. Still writing. Still fighting for the calm between the squalls. Still finding beauty, even if it’s the stark, sharp beauty of lightning cracking a bruised sky.
+
+So, to my fellow travelers navigating their own inner monsoons: I see you. The struggle is real, the path is winding, and the medication roulette is absurd. Be kind to yourselves. Advocate fiercely. Find your people. And never underestimate the power of laughing in the face of the tempest, even if it’s a slightly hysterical laugh. After all, what is a poet, if not someone who tries to make sense – and perhaps even art – out of chaos?
+
+With ink-stained fingers and a heart that’s seen too many weather fronts,
+
+~~**P.S.** If anyone has discovered a mood stabilizer that _also_ bestows the ability to fold fitted sheets, please send details. My linen cupboard is judging me. Harshly.~~
